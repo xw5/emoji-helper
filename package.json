@@ -66,7 +66,7 @@
         "emogi表情",
         "emojis.emojis"
     ],
-	"repository": "https://gitee.com/github-9819409/special-symbols",
+	"repository": "https://gitee.com/github-9819409/emoji-helper",
     "extensionDependencies": [
         "plugin-manager"
     ]
