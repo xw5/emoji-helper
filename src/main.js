@@ -14,8 +14,8 @@ function showView(param) {
     // 创建webviewDialog, 并设置对话框基本属性，包括标题、按钮等
     let webviewDialog = hx.window.createWebViewDialog({
         modal: true,
-        title: "特殊符号",
-        description: "点击符号可以插入符号到当前光标同时会复制当前符号，你也可以去粘贴使用",
+        title: "emoji表情",
+        description: "点击emoji表情可以插入emoji表情到当前光标同时会复制当前emoji表情，你也可以去粘贴使用",
         dialogButtons: ['关闭'],
         size: { width: 960, height: 680 }
     }, {
